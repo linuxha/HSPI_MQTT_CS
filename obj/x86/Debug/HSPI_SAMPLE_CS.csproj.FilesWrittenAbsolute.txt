@@ -1,0 +1,11 @@
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/HSPI_SAMPLE_CS.exe.config
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/HSPI_SAMPLE_CS.exe.mdb
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/HSPI_SAMPLE_CS.exe
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/obj/x86/Debug/HSPI_SAMPLE_CS.exe
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/obj/x86/Debug/HSPI_SAMPLE_CS.exe.mdb
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/HSCF.dll
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/Scheduler.dll
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/Mail.dll
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/CSScriptLibrary.dll
+/home/njc/dev/HS3-Full/HSPI_MQTT_CS/bin/Debug/Mono.CSharp.dll
